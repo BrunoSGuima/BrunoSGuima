@@ -6,7 +6,7 @@ My background is focused on backend development, but I also have experience work
 
 ## Tech stack
 
-- Ruby, Ruby on Rails, JavaScript and SQL
+- Python, Ruby, Ruby on Rails, JavaScript and SQL
 - PostgreSQL, Redis and Elasticsearch
 - RSpec, TDD and automated testing
 - REST APIs, GraphQL and Sidekiq
